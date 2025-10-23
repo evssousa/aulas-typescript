@@ -20,3 +20,11 @@ let numeros: Array<number> = [15, 23, 90]
  * numeros.push("Olá"), isso vai fazer com que acuse erro
  * já que o array "numeros" só aceita numeros.
  */
+
+/** ENTÃO... ===============================================
+ * O que ocorrerá se tentarmos adicionar um valor string
+ * em um array que foi tipado para números em Typescript?
+ *  
+ * RESPOSTA: O Typescript gerará um erro na tentativa de
+ * inserção!
+ */

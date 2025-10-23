@@ -20,6 +20,6 @@ function updateUser(id: number, update: Partial<User>) {
 ```
 
 ### Como executar os arquivos do repositório
-Faça Fork no repositório (isso também fará com que você receba atualizações). Abra o repositório no Codespace ou localmente, e no terminal execute `algo_aqui`.
+Faça Fork no repositório (isso também fará com que você receba atualizações). Abra o repositório no Codespace ou localmente, e no terminal execute `npx ts-node arquivo.ts`.
 
 Site oficial: <a href="https://www.typescriptlang.org/" target="_blank">https://www.typescriptlang.org/</a>
